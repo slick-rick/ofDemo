@@ -4,6 +4,8 @@
 
 class ofApp : public ofBaseApp{
 
+        private:int N;
+
 	public:
 		void setup();
 		void update();
